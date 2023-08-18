@@ -19,7 +19,8 @@ The link to the design mock-up:
 
 ## API description
 [Products API](https://mate-academy.github.io/react_phone-catalog/api/products.json) is used to fetch all available products from the server.
-[Product details API](https://mate-academy.github.io/react_phone-catalog/api/products/dell-streak-7.json) to fetch a product data.
+
+[Product details API](https://mate-academy.github.io/react_phone-catalog/api/products/dell-streak-7.json) is used to fetch a product details.
 
 The Cart and Favourites items are stored in `localStorage`.
 
