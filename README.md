@@ -5,7 +5,7 @@ The link to the app:
 - [DEMO LINK](https://ifuride.github.io/phone_catalog/)
 
 The link to the design mock-up:
-- [design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2).
+- [design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2)
 
 ## Technologies and languages used in the project
 - React;
@@ -31,7 +31,7 @@ The website consists of:
 - Tablets page;
 - Accessories page;
 - Product details page;
-- Serach page;
+- Search page;
 - Favourites page;
 - Cart page;
 - Not Found page.
